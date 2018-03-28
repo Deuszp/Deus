@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Deus: development" uuid="81449b20-552d-4850-94f2-d472855af698">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>Deus</user-name>
+      <user-password>dfecdfccdfecdfd0dfcbdf9cdf9fdfe1</user-password>
+    </data-source>
+    <data-source name="Rails Deus: test" uuid="73b1caa9-5092-42a5-ad2b-deb183b9f51a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails Deus: production" uuid="aa79085d-c6f4-4a73-90d8-fa30af33a3c0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>Deus</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfeedfefdfffdff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
